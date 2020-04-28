@@ -10,7 +10,7 @@ end
 def using_flatten
 end
 
-def using_concat
+def using_delete
 end
 
 def using_concat
