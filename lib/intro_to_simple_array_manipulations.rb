@@ -12,8 +12,9 @@ def using_uniq(array)
   array.uniq
 end
 
-#
-def using_flatten
+#use the .flatten method to return an array of strings
+def using_flatten(array)
+  array.flatten
 end
 
 def using_delete
