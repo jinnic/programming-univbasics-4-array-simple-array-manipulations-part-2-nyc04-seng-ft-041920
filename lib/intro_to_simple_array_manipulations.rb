@@ -13,8 +13,5 @@ end
 def using_delete
 end
 
-def using_concat
-end
-
-def using_concat
+def using_delete_at
 end
