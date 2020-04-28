@@ -7,11 +7,12 @@ def using_insert(array, element)
   array.insert(4, element)
 end
 
-
+#use .uniq method to remove any duplicate items
 def using_uniq(array)
   array.uniq
 end
 
+#
 def using_flatten
 end
 
