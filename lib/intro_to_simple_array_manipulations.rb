@@ -7,7 +7,7 @@ end
 def using_uniq
 end
 
-def using_concat
+def using_flatten
 end
 
 def using_concat
