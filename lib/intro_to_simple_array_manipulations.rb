@@ -4,7 +4,7 @@ end
 def using_insert
 end
 
-def using_concat
+def using_uniq
 end
 
 def using_concat
