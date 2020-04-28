@@ -17,7 +17,9 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_delete
+#use the .delete method to remove any items from the array that are equal to that string
+def using_delete(array, string)
+  
 end
 
 def using_delete_at
